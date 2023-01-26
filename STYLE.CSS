@@ -281,9 +281,6 @@ nav {
   .register-bx {
     width: 90%;
   }
-  .register-info-container {
-    scale: 0.9;
-  }
 }
 
 @media (max-width: 768px) {
